@@ -4,3 +4,9 @@ function sum(a,b){
 }
 var result=(10,40)
 console.log(result)
+
+
+var a=5
+var b=50
+var result=a+b
+console.log(result)

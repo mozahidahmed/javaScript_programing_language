@@ -6,7 +6,9 @@ var result=(10,40)
 console.log(result)
 
 
-var a=5
-var b=50
-var result=a+b
+function decrement(a,b){
+    var decrement=a-b;
+    return decrement
+}
+var result=(40,10)
 console.log(result)

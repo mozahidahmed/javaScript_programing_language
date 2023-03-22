@@ -12,3 +12,5 @@ function decrement(a,b){
 }
 var result=(40,10)
 console.log(result)
+
+

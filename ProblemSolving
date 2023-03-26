@@ -1,9 +1,15 @@
+/*
 problem solving javascript 
 
-01. type of variable/value
-02. index of array 
+01. Type of variable/value => typeof team
+02. Array 
+    index of array  => team.indexOf("sum")
+    number of index => array[2]
+    replace of index => number[3]=40
+    
 03. 
 
+*/
   
 
 

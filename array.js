@@ -1,3 +1,3 @@
-var team=["mozahid","nandini","ghf"]
-var result=team.indexOf("nandini")
+var team="98"
+var result=typeof team
 console.log(result);

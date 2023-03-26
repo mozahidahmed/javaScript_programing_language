@@ -1,4 +1,4 @@
-var number="30"
-var result =typeof number
+var number=77
+var result =parseFloat (number)
 console.log(result)
 

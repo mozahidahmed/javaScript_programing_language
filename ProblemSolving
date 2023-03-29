@@ -1,13 +1,19 @@
 /*
-problem solving javascript 
-
+......Basic of javascript................ 
 01. Type of variable/value => typeof team
-02. Array 
+02. operator
+03. conditional statement 
+04. loop 
+05. Array 
     index of array  => team.indexOf("sum")
     number of index => array[2]
-    replace of index => number[3]=40
-    
-03. object
+    replace of index => number[3]=40   
+06. object
+07. IIfe
+08. Hoisting
+09. Scope 
+10. closure 
+11. behind the seen  
 
 
 */
